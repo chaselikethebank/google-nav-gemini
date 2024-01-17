@@ -2,9 +2,17 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
+    
 }
 
+.h {
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+}
 
+.font-lg {
+    font-size: 3rem;
+}
 
 
 .navbar {
